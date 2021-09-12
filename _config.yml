@@ -1,9 +1,9 @@
-title: Part to Whole - Global to Local
+title: Henry's 2021 STUDIO RECORD
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Henry Liu (Yonghao Liu)
+  email: liuyon@kean.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  David Vardy (Director of the WKU Design Institute) and R. Spencer Steenblik (Asist. Dir. Public Architecture and Design Research Institute) have been leading an architecture studio focused on the complexities of aggregated collections of informal grass roots housing development. The studio has begun the process by looking at a "tiny house" competition sponsored by AIA Utah and commissioned by the Salt Lake City Mayor Mendenhall. The Students in the studio from all over China offer ideas and opportunities applicable in Salt Lake City, and Shanghai.
+  This is the record of my 2021 studio course
 
 show_excerpts: True # set to true to show excerpts on the homepage
 
@@ -12,7 +12,7 @@ show_excerpts: True # set to true to show excerpts on the homepage
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
+  skin: light
 
 
 
