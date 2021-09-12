@@ -1,11 +1,7 @@
----
 title: HI!
 categories: Studio process
 author:
 -Henry
-
-meta:
----
 
 Welcome!
 
