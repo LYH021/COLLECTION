@@ -1,13 +1,11 @@
 ---
-layout: post
-title: "Introduction"
+title: HI!
 categories: Studio process
 author:
-- David Vardy
-- R. Spencer Steenblik
+-Henry
+
 meta:
 ---
 
 Welcome!
 
-[Please download our syllabus. ](/assets/2021w_fa_arch3105studio_syllabus.pdf)
