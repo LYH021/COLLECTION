@@ -9,7 +9,6 @@ Different sizes of family, low-income groups.
 Personal interests: Modern, minimal
 Capacity: 2-4 maybe more
 Pets: Available 0-3
-Other cohabitants: 
 
 
 I think that a very static template cannot define a place suitable for living. Some people believe that living in a larger space is very comfortable, and a smaller space will make people feel tense. Some people think that a small distance makes people feel more secure than ample space. I like small and compact spaces, and I enjoy the satisfaction of observing every corner of my home at once.
