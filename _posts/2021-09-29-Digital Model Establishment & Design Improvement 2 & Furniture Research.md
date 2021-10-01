@@ -29,3 +29,7 @@ Container houses are a very good example.
 ![workshop-038](https://user-images.githubusercontent.com/90523160/135564162-e566f3d1-2086-49b7-86a1-f9460cdc4e1b.jpg)
 
 ![e754a510dec8f2f668c5d0e4ee188c05](https://user-images.githubusercontent.com/90523160/135564160-039b06b3-b95c-4010-b2a7-c03b335fbadc.jpg)
+
+This is my general idea of designing a house, through different frame structures to create different spatial forms.
+![棺材 3号  dirgram  plan _page-0001](https://user-images.githubusercontent.com/90523160/135564684-7edfd1a1-baa2-46f9-8ed7-08d4470d3c9b.jpg)
+
