@@ -1,9 +1,12 @@
-
 ---
 published: true
 title: MODEL ABOUT A TINY HOUSE
+categories: Studio work
+author: Henry
 layout: post
 ---
+
+
 
 
 
