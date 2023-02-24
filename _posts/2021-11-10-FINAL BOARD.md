@@ -1,8 +1,18 @@
 ---
 published: true
 title: FINAL BOARD
+categories: Studio work
+author: Henry
 layout: post
 ---
+Final board about the studio. 
+
+
+Actually, it's not my style. Becouse it was a team work and my job is focuse on making a digital and physical model. 
+
+
+
+
 <img width="786" alt="微信截图_20211217102116" src="https://user-images.githubusercontent.com/90523160/146478435-b69f75f8-b4e8-45d7-b56e-5e93807de2bd.png">
 <img width="786" alt="微信截图_20211217102132" src="https://user-images.githubusercontent.com/90523160/146478443-a73ba85e-6105-4d2c-a712-11679c6a58aa.png">
 <img width="406" alt="微信图片_20211127043214" src="https://user-images.githubusercontent.com/90523160/146478482-ec480537-9dc6-40dd-b62f-91d8e07761a4.png">
