@@ -11,7 +11,7 @@ We can say that, it's a chance to pre ourselves. 我个人认为自己还是比�
 
 #9M IS ENOUGH 
 
-![STATEMENT](https://user-images.githubusercontent.com/90523160/146479390-e578ea41-13ff-4ee8-8ca9-96338a67d88b.jpg](https://s3.bmp.ovh/imgs/2023/02/24/d06a7f5f084c2267.png)
+![STATEMENT](https://s3.bmp.ovh/imgs/2023/02/24/d06a7f5f084c2267.png)
 
-![COLLAGE](https://user-images.githubusercontent.com/90523160/146479390-e578ea41-13ff-4ee8-8ca9-96338a67d88b.jpg](https://s3.bmp.ovh/imgs/2023/02/24/d06a7f5f084c2267.png](https://s3.bmp.ovh/imgs/2023/02/24/5d27e2126d8ba018.png)
+![COLLAGE](https://s3.bmp.ovh/imgs/2023/02/24/d06a7f5f084c2267.png](https://s3.bmp.ovh/imgs/2023/02/24/5d27e2126d8ba018.png)
 
