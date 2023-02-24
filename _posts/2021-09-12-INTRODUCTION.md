@@ -1,17 +1,11 @@
-
 ---
 published: true
 title: Custome tiny house Ⅰ
-category: Algorithm
+categories: Studio work
 author: Henry
 layout: post
 ---
 
-title:Custome tiny house Ⅰ
-
-categories: Studio work
-
-author: Henry
 
 
 Different sizes of family, low-income groups. 
