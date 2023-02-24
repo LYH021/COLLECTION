@@ -1,3 +1,12 @@
+
+---
+published: true
+title: Custome tiny house Ⅰ
+category: Algorithm
+author: Henry
+layout: post
+---
+
 title:Custome tiny house Ⅰ
 
 categories: Studio work
