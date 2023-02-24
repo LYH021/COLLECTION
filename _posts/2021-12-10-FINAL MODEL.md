@@ -1,8 +1,11 @@
 ---
 published: true
 title: FINAL BOARD
+categories: Studio work
+author: Henry
 layout: post
 ---
+
 
 Here are the Final Board about the studio in 2021 Tiny House. Fianlly. 
 
