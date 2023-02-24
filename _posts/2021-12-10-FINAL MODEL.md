@@ -1,6 +1,6 @@
 ---
 published: true
-title: FINAL BOARD
+title: FINAL MODEL
 categories: Studio work
 author: Henry
 layout: post
