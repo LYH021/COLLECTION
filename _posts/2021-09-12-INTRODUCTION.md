@@ -1,6 +1,6 @@
 ---
 published: true
-title: Custome tiny house Ⅰ
+title: INRODUCTION ABOUT "Custome tiny house Ⅰ"
 categories: Studio work
 author: Henry
 layout: post
